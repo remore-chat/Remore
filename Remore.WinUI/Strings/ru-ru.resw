@@ -338,25 +338,25 @@
     <value>Сохранить</value>
   </data>
   <data name="ConnectionFailed.Title" xml:space="preserve">
-    <value>Connection to server failed</value>
+    <value>Не удалось подключиться к серверу</value>
   </data>
   <data name="ConnectionFailed.Content" xml:space="preserve">
-    <value>Can't connect to server {0}</value>
+    <value>Подключение к серверу {0} не удалось</value>
   </data>
   <data name="Settings_Backdrop.Acrylic" xml:space="preserve">
     <value>Acrylic</value>
   </data>
   <data name="Settings_Backdrop.Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Выключен</value>
   </data>
   <data name="Settings_Backdrop.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>Бекдроп</value>
   </data>
   <data name="Settings_Backdrop.Mica" xml:space="preserve">
     <value>Mica</value>
   </data>
   <data name="Shell.AddServer" xml:space="preserve">
-    <value>Add
-server</value>
+    <value>Добавить
+сервер</value>
   </data>
 </root>
